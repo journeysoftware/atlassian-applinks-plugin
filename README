@@ -1,3 +1,0 @@
-Applinks Journey Plugin
-
-An incoming application link relationship must be formed with Atlassian products in order for Journey users to enable OAuth-type authentication for access to their Atlassian product APIs.  This has previously been a manual procedure done through the Atlassian UI interface. Applinks Journey Plugin automates this procedure.
