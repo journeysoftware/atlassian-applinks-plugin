@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Applinks Connect 
 description: Plugin to register as an API consumer with Atlassian
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://benzeg.github.io/atlassian-applinks-plugin" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url: https://benzeg.github.io/atlassian-applinks-plugin # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Benze_Gong
 github_username:  benzeg
 
