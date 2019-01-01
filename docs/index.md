@@ -11,6 +11,7 @@ This program can establish an applink between Atlassian and 3rd party integratio
 The program will gain access to the applinks.spi following installation granted by the user, which allows the program to mimick the actions of Atlassian's dashboard-based applink wizard by registering an applink with the service using pre-configured settings of the integrating application.
 
 |Configuration requirements|
+|---|
 |application.link.name|
 |application.link.url|
 |consumer.name|
